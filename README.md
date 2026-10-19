@@ -2,9 +2,19 @@
 
 Estudante do 4º período de **Engenharia de Computação na PUCPR** (Curitiba, PR), em busca de **estágio em engenharia**.
 
-Gosto de projetos que juntam software e hardware: programação em C, Python e robótica com Arduino e LEGO SPIKE.
+Desenvolvo e mantenho sistemas web usados no dia a dia de dois negócios da família, e na faculdade gosto de projetos que juntam software e hardware (C, Python, Arduino e LEGO SPIKE).
 
-### Projetos em destaque
+### Sistemas em uso real
+
+| Sistema | O que faz | Tecnologias |
+| --- | --- | --- |
+| App da Madeireira Lugarini | PWA de orçamentos e pedidos: preço por volume de madeira, pagamentos parcelados, PDF e envio por WhatsApp | Next.js, TypeScript, Supabase, Vercel |
+| [Site da Madeireira Lugarini](https://madeiraslugarini.com.br) | Site institucional com catálogo de madeiras | HTML, CSS, JavaScript |
+| App do Motel Grand Place | Fechamento financeiro diário e mensal, substituindo a planilha usada antes | Next.js, TypeScript, Supabase, Vercel |
+
+O código dos dois apps é privado porque eles guardam dados reais dos negócios. Posso mostrar numa entrevista.
+
+### Projetos da faculdade
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
@@ -16,7 +26,7 @@ Gosto de projetos que juntam software e hardware: programação em C, Python e r
 
 ### Ferramentas
 
-C · Python · C++ (Arduino) · Git
+TypeScript · Next.js · React · Supabase (PostgreSQL) · C · Python · C++ (Arduino) · Git
 
 ### Contato
 
@@ -24,4 +34,4 @@ C · Python · C++ (Arduino) · Git
 
 ---
 
-*English: Computer Engineering student at PUCPR (Brazil), looking for an engineering internship. Advanced English (C1).*
+*English: Computer Engineering student at PUCPR (Brazil), looking for an engineering internship. I build and maintain web apps (Next.js + Supabase) used daily by two family businesses. Advanced English (C1).*
